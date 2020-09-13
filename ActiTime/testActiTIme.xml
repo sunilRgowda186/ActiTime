@@ -1,0 +1,8 @@
+<suite name="Suite">
+<parameter name="sBrowser" value="chrome"/>
+  <test thread-count="5" name="Test">
+   <packages>
+   <package name="com.actitime.scriptss"/>   
+   </packages>
+  </test> 
+</suite> 
