@@ -30,7 +30,7 @@ public class TestCreateUser extends BaseTest{
 		tls.clickOnAddNewBTN();
 		tls.clickOnPlusNwCustomer();
 		Thread.sleep(1000);
-		tls.setNewCustomerName("BPS2343");
+		tls.setNewCustomerName("BPS234312");
 		tls.clickonPlusCreateCusomerBTN();
 		tls.listofCustomers();
 		etp.clickOnLogOutLink();
